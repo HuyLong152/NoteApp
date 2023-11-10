@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8EEE2"
+    tools:context=".StartNote">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/titan_one"
+        android:text="Notely"
+        android:textSize="20dp"
+        android:textColor="@color/black"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="268dp"
+        android:layout_height="197dp"
+        android:layout_marginTop="157dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/notely_get_started" />
+
+    <TextView
+        android:id="@+id/abc"
+        android:layout_width="307dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="382dp"
+        android:fontFamily="@font/titan_one"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:text="World’s Safest And argest Digital Notebook"
+        android:textSize="23dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtview"
+        android:layout_width="307dp"
+        android:layout_height="66dp"
+        android:layout_marginTop="460dp"
+        android:fontFamily="@font/nunito"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:text="World’s Safest And argest Digital Notebook"
+        android:textSize="20.8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button"
+        android:layout_width="319dp"
+        android:layout_height="74dp"
+        android:layout_marginTop="611dp"
+        android:background="@drawable/button_start"
+        android:backgroundTintMode="src_in"
+        android:fontFamily="@font/nunito"
+        android:paddingTop="24dp"
+        android:paddingBottom="24dp"
+        android:text="GET STARTED"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:letterSpacing="0.2"
+        android:textColor="#FFFBFA"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtHaveAcc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="705dp"
+        android:fontFamily="@font/nunito"
+        android:textSize="16dp"
+        android:textColor="#D9614C"
+        android:text="Already have an account?"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+</androidx.constraintlayout.widget.ConstraintLayout>

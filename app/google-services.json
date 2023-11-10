@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "572181171625",
+    "firebase_url": "https://noteapp-d4f56-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "noteapp-d4f56",
+    "storage_bucket": "noteapp-d4f56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572181171625:android:6fc3d37f36527e43bb48b8",
+        "android_client_info": {
+          "package_name": "com.example.notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4oRoXGLXoHvX4JPzJqXg5iqvwyQ7L8dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,6 +1,6 @@
 # NoteApp
 
-![image](https://github.com/HuyLong152/NoteApp/assets/111405703/be8a55df-6da4-4fd3-b563-d65beebde454)
+![image](https://github.com/HuyLong152/NoteApp/assets/111405703/be8a55df-6da4-4fd3-b563-d65beebde454) width = 50% height = 50%
 
 ![image](https://github.com/HuyLong152/NoteApp/assets/111405703/3cc04f7c-1adb-438a-b6be-dfa065187372)
 
